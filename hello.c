@@ -1,1 +1,5 @@
-printf("i am jomol")
+#include<stdio.h>
+int main()
+{
+    printf("i am stephy")
+}
